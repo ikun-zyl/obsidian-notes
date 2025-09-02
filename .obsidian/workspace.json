@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Git远程管理笔记教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Git远程管理笔记教程"
             }
           }
         ]
@@ -168,12 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ac70daca28ac53f",
+  "active": "08e8eb1650728170",
   "lastOpenFiles": [
-    "未命名",
     "欢迎.md",
+    "Git远程管理笔记教程.md",
+    "K8S",
     "未命名.canvas",
-    "未命名.md",
     "2025-06-06.md"
   ]
 }
